@@ -52,7 +52,7 @@ No better way to learn than to get started. Clone this repo and follow along.
 ### 5. Create a branch titled "[student_name_s]-motivation" 
     Find the documentation needed to 
         - create a new branch with "your_name-motivation" as the title of the branch.
-        - create a directory called motivation.
+        - navigate to the directory/folder called motivation.
         - in that directory copy and paste your contact info
         - give your motivation for taking this course
         - describe your learning style
@@ -66,7 +66,8 @@ No better way to learn than to get started. Clone this repo and follow along.
 - https://markdown-guide.readthedocs.io/en/latest/basics.html
 
 ***
-#### Most Used Commands
+#### Common Used Commands
+- git init
 - git clone <repo.git>  
 - git add <file_name.rb>  
 - git add .  
