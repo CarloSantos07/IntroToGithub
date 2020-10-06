@@ -47,17 +47,22 @@ No better way to learn than to get started. Clone this repo and follow along.
 ### 4. Add Contact Info
     - navigate to the sudent_info directory
     - add your name and email to contact_info.md
+  
+![](https://i.ibb.co/H21P99Y/Screen-Shot-2020-10-05-at-10-01-48-PM.png)
+
     - commit your changes and push to master
 
 ### 5. Create a branch titled "[student_name_s]-motivation" 
     Find the documentation needed to 
         - create a new branch with "your_name-motivation" as the title of the branch.
         - navigate to the directory/folder called motivation.
+  
+  ![](https://i.ibb.co/ZgFSQ6k/Screen-Shot-2020-10-05-at-10-06-10-PM.png)
+
         - in that directory copy and paste your contact info
         - give your motivation for taking this course
         - describe your learning style
         - commit your changes and push to master
-        
         
 ### Useful Resources
 

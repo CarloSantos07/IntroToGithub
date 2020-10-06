@@ -1,20 +1,3 @@
 Name: Carlo  
 Motivation:   
-  My motivation for creating this class is to learn and master ruby and ruby on rails myself. The goal is always self improvement. If I can teach a someone else I can teach myself. What do I want to learn first. I want to learn to make a deployable app.
-  A useful web app. 
-
-  My idea for an app currently is a financer.
-
-  You tell the financer how much you make every two weeks...
-
-  You will tell the financer how much you get paid and how often (bi-weekly, weekly, monthly, by-contract)...
-
-  You tell the financer how much you want to put into savings, home, wedding, frivaoous activities, etc. (10%, 20%, %50, etc.)
-  or you could do flat dollar value (50.00, 100.00, 150.00,etc.)
-
-  The financer will tell you how much will be in your account in months or years to come.
-
-  How to get started. Let's build a simple finacner app.
-
-  I created a small prototype. Need to implement with oop.
-  Classes etc.
+ To teach others to create for themselves. The goal of the class is to learn how to learn. My motivation is to help you find your inner success. A true teacher does not try to mold the student but removes obstacles that may slow down the learning process. My aim is to get you paid, but the desire must be there. More than ever developers and programmers are needed in every field from medicine, to space, to art, and so much more. Helping you to develop yourself even after this class is my aim.
