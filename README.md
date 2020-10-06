@@ -42,7 +42,7 @@ No better way to learn than to get started. Clone this repo and follow along.
 ![](https://i.ibb.co/g7ps7CY/Screen-Shot-2020-10-05-at-10-32-07-PM.png)
 
 
-### 3. Clone this Repo
+### 3. Fork and Clone this Repo
 
     https://github.com/CarloSantos07/IntroToGithub
 ![](https://i.ibb.co/kG9JGZZ/Screen-Shot-2020-10-05-at-10-44-04-PM.png)
