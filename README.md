@@ -39,10 +39,13 @@ No better way to learn than to get started. Clone this repo and follow along.
 ### 2. Create Github Account 
 
 [Create a GitHub account](https://github.com/) and get yourself an avatar.
+![](https://i.ibb.co/g7ps7CY/Screen-Shot-2020-10-05-at-10-32-07-PM.png)
+
 
 ### 3. Clone this Repo
 
     https://github.com/CarloSantos07/IntroToGithub
+![](https://i.ibb.co/kG9JGZZ/Screen-Shot-2020-10-05-at-10-44-04-PM.png)
 
 ### 4. Add Contact Info
     - navigate to the sudent_info directory
