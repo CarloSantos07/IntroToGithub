@@ -72,6 +72,7 @@ No better way to learn than to get started. Clone this repo and follow along.
 - [Hubspot - An intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 - [Git Website and readings](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)
 - https://markdown-guide.readthedocs.io/en/latest/basics.html
+- What Is Version Control[Slides](https://docs.google.com/presentation/d/1f_P8h5K-j26hOQCBlhP3Sn50X3hwbXev7WdDI7wwCgc/edit?usp=sharing)
 
 ***
 #### Common Used Commands
